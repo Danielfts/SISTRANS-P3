@@ -1,0 +1,7 @@
+tipoHabitacion
+habitacion
+servicio
+reservaAlojamiento
+checkIn
+checkOut
+consumoServicio

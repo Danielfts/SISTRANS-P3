@@ -1,4 +1,4 @@
-package uniandes.edu.co.demo.modelo;
+package uniandes.edu.co.demo.entities;
 
 import lombok.ToString;
 
